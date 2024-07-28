@@ -16,11 +16,6 @@
 
 3. **Install Dependencies:**
 
-   ```bash
-   cd ..
-   rosdep install --from-paths src --ignore-src -r -y
-   ```
-
    <img width="620" alt="1-install all dep" src="https://github.com/user-attachments/assets/8d6cce80-f8d5-4790-a664-d7b36b83faf3">
 
 4. **Build the Workspace:**
